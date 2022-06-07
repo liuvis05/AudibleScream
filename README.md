@@ -23,3 +23,6 @@ Generate an execution plan.
 ### `terraform apply`
 
 Apply changes to Azure cloud.
+
+
+Create and download ssh keys, put in folder named ssh-keys in directory with tf files.
